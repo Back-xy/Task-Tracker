@@ -1,6 +1,6 @@
 # Task Tracker CLI Application
 
-This is a simple command-line interface (CLI) application for tracking and managing tasks. You can add, update, delete, and list tasks, as well as mark them as "in-progress" or "done". Tasks are stored in a JSON file in the current directory.
+This is a simple command-line interface (CLI) application from https://roadmap.sh/projects/task-tracker for tracking and managing tasks. You can add, update, delete, and list tasks, as well as mark them as "in-progress" or "done". Tasks are stored in a JSON file in the current directory.
 
 ## Features
 
